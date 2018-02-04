@@ -1,0 +1,14 @@
+/*Problem 1:Write a loop that makes seven calls to console.log to output the following triangle: 
+#
+##
+###
+####
+#####
+######
+*/
+
+let pound =[];
+for (let counter=0; counter <= 6; counter++){
+    pound = pound + "#";
+    console.log(pound);
+ }
