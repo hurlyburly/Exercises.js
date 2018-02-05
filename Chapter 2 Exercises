@@ -33,3 +33,15 @@ for (i = 1; i<=100;i++){
         console.log(i);
     }
 }
+/* Chess Board: Write a program that creates a strin that represents an 8x* grid, using newline characters to separate line. 
+At each position of the grid there is either a speace or a "#" character. The characters should form a chess board. 
+ # # # #
+# # # # 
+ # # # #
+# # # # 
+ # # # #
+# # # # 
+ # # # #
+# # # # 
+When you have a program that generates this pattern, define a variable size = 8 and change the program so that it works for
+any size, outputting a grid of the given width and height. */
